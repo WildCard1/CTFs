@@ -1,8 +1,6 @@
 # Reversing Challenges List
 
-If there is no writeup about reversing tasks of past CTF and you need, please make the issue.
-
-asdfasdf
+*** This is a clone (not fork) of https://github.com/N4NU/Reversing-Challenges-List ***
 
 過去のCTFのrev問でwriteupが無かったり，日本語のwriteupがほしい場合にissueを立ててくれれば出来るだけ解いて日本語のwriteupを書いていこうと思います．
 
